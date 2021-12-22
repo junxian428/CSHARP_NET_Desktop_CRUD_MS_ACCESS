@@ -1,0 +1,10 @@
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\bin\Debug\C_Sharp_GUI_App.exe.config
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\bin\Debug\C_Sharp_GUI_App.exe
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\bin\Debug\C_Sharp_GUI_App.pdb
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\obj\Debug\C_Sharp_GUI_App.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\obj\Debug\C_Sharp_GUI_App.Form1.resources
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\obj\Debug\C_Sharp_GUI_App.Properties.Resources.resources
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\obj\Debug\C_Sharp_GUI_App.csproj.GenerateResource.cache
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\obj\Debug\C_Sharp_GUI_App.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\obj\Debug\C_Sharp_GUI_App.exe
+C:\Users\USer\source\repos\C_Sharp_GUI_App\C_Sharp_GUI_App\obj\Debug\C_Sharp_GUI_App.pdb
